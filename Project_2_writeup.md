@@ -49,7 +49,7 @@ signs data set:
 
 Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
 
-![image9]: ./freq_dist.png "Frequency Distribution"
+![Figure](freq_dist.png)
 
 ###Design and Test a Model Architecture
 
