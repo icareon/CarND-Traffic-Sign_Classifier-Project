@@ -13,8 +13,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-![image1]: ./examples/visualization.jpg "Visualization"
-![image2]: ./examples/grayscale.jpg "Grayscaling"
+![image1]: (./examples/visualization.jpg) "Visualization"
+![image2]: (./examples/grayscale.jpg) "Grayscaling"
 ![image3]: ./examples/random_noise.jpg "Random Noise"
 ![image4]: ./traffic-signs-data/no_entry.jpg "Traffic Sign 1"
 ![image5]: ./traffic-signs-data/construction.jpg "Traffic Sign 2"
