@@ -13,14 +13,14 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/visualization.jpg "Visualization"
-[image2]: ./examples/grayscale.jpg "Grayscaling"
-[image3]: ./examples/random_noise.jpg "Random Noise"
-[image4]: ./traffic-signs-data/no_entry.jpg "Traffic Sign 1"
-[image5]: ./traffic-signs-data/construction.jpg "Traffic Sign 2"
-[image6]: ./traffic-signs-data/stop.png "Traffic Sign 3"
-[image7]: ./traffic-signs-data/vorfahrt1.jpg "Traffic Sign 4"
-[image8]: ./traffic-signs-data/vorfahrt2.jpg "Traffic Sign 5"
+![image1]: ./examples/visualization.jpg "Visualization"
+![image2]: ./examples/grayscale.jpg "Grayscaling"
+![image3]: ./examples/random_noise.jpg "Random Noise"
+![image4]: ./traffic-signs-data/no_entry.jpg "Traffic Sign 1"
+![image5]: ./traffic-signs-data/construction.jpg "Traffic Sign 2"
+![image6]: ./traffic-signs-data/stop.png "Traffic Sign 3"
+![image7]: ./traffic-signs-data/vorfahrt1.jpg "Traffic Sign 4"
+![image8]: ./traffic-signs-data/vorfahrt2.jpg "Traffic Sign 5"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
@@ -49,7 +49,7 @@ signs data set:
 
 Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
 
-[image9]: ./freq_distribution.png"
+![image9]: ./freq_distribution.png"
 
 ###Design and Test a Model Architecture
 
@@ -59,8 +59,8 @@ As a first step, I decided to convert the images to grayscale because that reduc
 
 Here is an example of a traffic sign image before and after grayscaling.
 
-[image10]: ./normal.png"
-[image11]: ./grayscale.png"
+![Figure](normal.png)
+![Figure](grayscale.png)
 
 As a last step, I normalized the image data because it reduced the range of pixelvalues, alowing the network to converge easier.
 
