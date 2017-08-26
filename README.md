@@ -103,11 +103,11 @@ If a well known architecture was chosen:
 
 Here are five German traffic signs that I found on the web:
 
-![image4](./traffic-signs-data/no_entry.jpg "Traffic Sign 1")
-![image5](./traffic-signs-data/construction.jpg "Traffic Sign 2")
-![image6](./traffic-signs-data/stop.png "Traffic Sign 3")
-![image7](./traffic-signs-data/vorfahrt1.jpg "Traffic Sign 4")
-![image8](./traffic-signs-data/vorfahrt2.jpg "Traffic Sign 5")
+![image4](./Writeup/no_entry.jpg "Traffic Sign 1")
+![image5](./Writeup/construction.jpg "Traffic Sign 2")
+![image6](./Writeup/stop.png "Traffic Sign 3")
+![image7](./Writeup/vorfahrt1.jpg "Traffic Sign 4")
+![image8](./Writeup/vorfahrt2.jpg "Traffic Sign 5")
 
 None of the images are difficult to classify because I cropped them nicely and squarely prior to uploading them to AWS.
 
