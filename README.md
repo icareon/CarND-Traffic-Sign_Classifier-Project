@@ -41,7 +41,7 @@ signs data set:
 
 Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
 
-![Figure](freq_dist.png)
+![Figure1](./Writeup/freq_dist.png)
 
 ### Design and Test a Model Architecture
 
@@ -51,8 +51,8 @@ As a first step, I decided to convert the images to grayscale because that reduc
 
 Here is an example of a traffic sign image before and after grayscaling.
 
-![Figure](normal.png)
-![Figure](grayscale.png)
+![Figure2](./Writeup/normal.png)
+![Figure3](./Writeup/grayscale.png)
 
 As a last step, I normalized the image data because it reduced the range of pixelvalues, alowing the network to converge easier.
 
@@ -103,11 +103,11 @@ If a well known architecture was chosen:
 
 Here are five German traffic signs that I found on the web:
 
-![image4](no_entry.jpg "Traffic Sign 1")
-![image5](construction.jpg "Traffic Sign 2")
-![image6](stop.png "Traffic Sign 3")
-![image7](vorfahrt1.jpg "Traffic Sign 4")
-![image8](vorfahrt2.jpg "Traffic Sign 5")
+![image4](./traffic-signs-data/no_entry.jpg "Traffic Sign 1")
+![image5](./traffic-signs-data/construction.jpg "Traffic Sign 2")
+![image6](./traffic-signs-data/stop.png "Traffic Sign 3")
+![image7](./traffic-signs-data/vorfahrt1.jpg "Traffic Sign 4")
+![image8](./traffic-signs-data/vorfahrt2.jpg "Traffic Sign 5")
 
 None of the images are difficult to classify because I cropped them nicely and squarely prior to uploading them to AWS.
 
