@@ -13,8 +13,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-![image1]: (./examples/visualization.jpg) "Visualization"
-![image2]: (./examples/grayscale.jpg) "Grayscaling"
+
+![image1]: ./examples/visualization.jpg
+![image2]: ./examples/grayscale.jpg) "Grayscaling"
 ![image3]: ./examples/random_noise.jpg "Random Noise"
 ![image4]: ./traffic-signs-data/no_entry.jpg "Traffic Sign 1"
 ![image5]: ./traffic-signs-data/construction.jpg "Traffic Sign 2"
@@ -64,6 +65,7 @@ Here is an example of a traffic sign image before and after grayscaling.
 
 As a last step, I normalized the image data because it reduced the range of pixelvalues, alowing the network to converge easier.
 
+![Figure](normalize.png)
 
 ####2. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.) Consider including a diagram and/or table describing the final model.
 
